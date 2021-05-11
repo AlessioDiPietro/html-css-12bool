@@ -1,6 +1,19 @@
-.pinky-box {
+.pinky {
     background: #ffc0cb;
     border: 1px solid black;
-    padding: 3px;
+    font-size: 5px;
     height: 60px;
+    padding: 4px;
+}
+.coral {
+   background-color: #f07f80; 
+   border: 1px solid white;
+   padding: 19px 0;
+   height: 50px;
+   text-align: center;
+
+}
+.box {
+    text-align: center;
+    line-height: 55px;
 }

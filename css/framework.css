@@ -31,9 +31,7 @@
         flex-grow: 1;
         flex-basis: 0;
         max-width: 100%;
-        font-size: 5px;
-        text-align: center;
-        line-height: 55px;
+
     }
 
     /* col basis xs */
